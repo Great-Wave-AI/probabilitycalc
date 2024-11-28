@@ -1,7 +1,7 @@
 
 ## Token Probability Analysis with Jupyter Notebook
 
-This repository contains a Jupyter Notebook that calculates and visualizes how the probability of predicting the correct next token decreases as the context grows in length and complexity.
+This repository contains a Jupyter Notebook that calculates and visualizes how the probability of predicting the correct next token decreases as the context grows in length and complexity. This is for demonstration purposes as to how the quality of input directly effects the machines ability to determine the next token.
 
 ## How to Run the Notebook
 
